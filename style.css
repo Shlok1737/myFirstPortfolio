@@ -1,0 +1,106 @@
+* { 
+  align-items: center;
+  align-content: center;
+}
+
+body {
+  font-family: roboto;
+  background-color: #f5f5f5 !important;
+  color: #222222;
+}
+
+h1 {
+  color: #1a1a2e !important;
+  font-size: 50px;
+  color: #E8F6F3;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+#lol1 {
+  color: #1a1a2e !important;
+  font-family: 'Amiri';
+  font-size: 25px;
+  color:#E8F6F3;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+#head1 {
+   background-color: #1a1a2e !important;
+  font-size: 30px;
+  color:#E8F6F3;
+  font-weight: bold;
+  margin-left: 50px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#head2 {
+  background-color: #1a1a2e !important;
+  color:#E8F6F3;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 50px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#lol3 {
+  font-family: 'Amiri';
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+#lol5 {
+  font-family: 'Amiri';
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+li {
+  font-family: 'Amiri';
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#bold1 {
+  font-family: 'Amiri';
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+#li1 {
+  font-family: 'Amiri';
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 0px;
+}
+
+#li2 {
+  font-family: 'Amiri';
+  font-size: 25px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 0px;
+  height: 10px;
+}
+
+#lol3, #lol5, li, #bold1, #li1, #li2 {
+  background-color: #ffffff !important;
+  color: #222222;
+}
